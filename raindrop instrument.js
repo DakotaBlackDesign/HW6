@@ -22,8 +22,7 @@ function setup() {
 		t: millis(), //current time 
 		t1:0, //starting time 
 		d: random(5,10), // diameter
-		b: 60,
-		c: 0
+		b: 60
     		}
     	}
 }
